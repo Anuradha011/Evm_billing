@@ -18,12 +18,12 @@
   filter: drop-shadow 0 0  #61dafbaa);
 }
 
-@keyframes logo-spin {
+@keyframes logo {
   from {
     transform: rotate();
   }
   to {
-    transform: rotate);
+    transform: rotate;
   }
 }
 
